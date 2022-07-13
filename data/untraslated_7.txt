@@ -1,0 +1,146 @@
+Number 1:bulletin 
+Number 2:dissolve 
+Number 3:lure 
+Number 4:doze 
+Number 5:corps 
+Number 6:enact 
+Number 7:correspondence corresponding 
+Number 8:glaze glazed 
+Number 9:sphere 
+Number 10:pluralism 
+Number 11:obliterate 
+Number 12:exposition 
+Number 13:herbivore 
+Number 14:reef coral 
+Number 15:unethical 
+Number 16:withhold 
+Number 17:compass 
+Number 18:rancher rodeos 
+Number 19:apprenticeship 
+Number 20:solicit solicitor solicitous entreat 
+Number 21:silt delta clog 
+Number 22:engulf 
+Number 23:secrete excrete 
+Number 24:stumble 
+Number 25:nosy inquisitive 
+Number 26:on the stock stock up 
+Number 27:perceive perceptive 
+Number 28:intrepid 
+Number 29:unbound 
+Number 30:ailment 
+Number 31:constitute 
+Number 32:flourish 
+Number 33:sulfuric 
+Number 34:pastel bland 
+Number 35:feudal 
+Number 36:rancorous 
+Number 37:opaque waxy greenish an opaque finish translucent 
+Number 38:molecular 
+Number 39:theorize theoretical 
+Number 40:chaotic 
+Number 41:receptacle 
+Number 42:stylized 
+Number 43:facilitate impulse 
+Number 44:art deco 
+Number 45:essence 
+Number 46:anecdotal anecdote 
+Number 47:hop 
+Number 48:unsubstantiated 
+Number 49:coincide 
+Number 50:dispute 
+Number 51:tow 
+Number 52:forum 
+Number 53:disseminate 
+Number 54:camouflage gloss hide disguise invertebrate 
+Number 55:scroll 
+Number 56:subversive 
+Number 57:ballerina 
+Number 58:pursuit 
+Number 59:bedrock 
+Number 60:nominee 
+Number 61:ample trample amble 
+Number 62:implement 
+Number 63:colonization 
+Number 64:underscore 
+Number 65:recital 
+Number 66:revere 
+Number 67:flank 
+Number 68:patriot fervent patriotic patriotism 
+Number 69:husk 
+Number 70:eruption 
+Number 71:renown 
+Number 72:scrape rub brush scraping scrape off scrape along scrape by 
+Number 73:disproportionate 
+Number 74:bleach 
+Number 75:unprecedented precedent unexampled 
+Number 76:crow 
+Number 77:transfigure 
+Number 78:saucy 
+Number 79:peripheral 
+Number 80:influx 
+Number 81:marine mammal 
+Number 82:sparse 
+Number 83:crop 
+Number 84:prevailing basin 
+Number 85:dismay 
+Number 86:strand 
+Number 87:deceive deceptive 
+Number 88:embrace 
+Number 89:atomization 
+Number 90:diction expression 
+Number 91:hoof 
+Number 92:aria melody 
+Number 93:coal 
+Number 94:propagate 
+Number 95:vagrant 
+Number 96:hail 
+Number 97:provoke 
+Number 98:hydroelectric 
+Number 99:delegate representative authorize 
+Number 100:district 
+Number 101:makeup 
+Number 102:perpetual 
+Number 103:feeble 
+Number 104:Mount Everest 
+Number 105:intestinal 
+Number 106:luster 
+Number 107:responsive 
+Number 108:encrust 
+Number 109:converse 
+Number 110:homesteader 
+Number 111:discipline drill disciplined 
+Number 112:expel impel compel repel dispel 
+Number 113:nail 
+Number 114:strain 
+Number 115:plight 
+Number 116:tide sb over tidal 
+Number 117:sprain 
+Number 118:topography 
+Number 119:sprout 
+Number 120:heyday 
+Number 121:unprecedented 
+Number 122:incline 
+Number 123:sustainable 
+Number 124:haunt 
+Number 125:swoop 
+Number 126:affiliate 
+Number 127:hominid dietary 
+Number 128:volcanic 
+Number 129:clay 
+Number 130:patriarch 
+Number 131:invasion resourceful sauce saucer recourse 
+Number 132:unadorned 
+Number 133:grind grinder grind down grind out 
+Number 134:troupe 
+Number 135:grievous 
+Number 136:turquoise quartz 
+Number 137:emanate emanate from 
+Number 138:hydrothermal vent 
+Number 139:conceive 
+Number 140:floral 
+Number 141:composition 
+Number 142:compel expel dispel impel repel bead 
+Number 143:constrain confine constraint 
+Number 144:mediate reconcile compose 
+Number 145:seep ooze seepage 
+Number 146:chlorine chlorinate chloride 
