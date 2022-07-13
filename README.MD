@@ -1,5 +1,5 @@
 
-参考 https://github.com/zhaochenyang20/TOFEL_words_reviewer
+以 https://github.com/zhaochenyang20/TOFEL_words_reviewer 为基础修改。注释中标明了[部分]参考。 
 
 usage:
 
